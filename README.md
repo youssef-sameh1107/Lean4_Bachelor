@@ -1,3 +1,5 @@
+[Read the full bachelor’s thesis (PDF)](docs/thesis.pdf)
+
 # Evaluating Large Language Models for Machine-Checked Proofs in Lean 4
 
 Bachelor’s thesis project by Yousef Sameh Mourid Mohamad Mohamad Elbaz at the German University in Cairo, supervised by Dr. Ulf Krumnack.
