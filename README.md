@@ -1,4 +1,4 @@
-[Read the full bachelor’s thesis (PDF)](docs/thesis.pdf)
+[Read the full bachelor’s thesis (PDF)](Evaluating Large Language Models for Machine-Checked Proofs in Lean 4_ A Case Study in Formal Languages.pdf)
 
 # Evaluating Large Language Models for Machine-Checked Proofs in Lean 4
 
